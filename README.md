@@ -4,3 +4,9 @@ This is a repository of all the code I have coded in **Android Study Jams**. Thi
 All the code here is meant for self reference and to be referred by others only to learn the implementation. Do not use this repository to copy the code directly, but instead to compare it with yours.
 
 If you have a better code for any of the code posted here, do PR, I'll add it right in.
+
+## Connect with me
+<div align="center">
+<a href="https://github.com/swapnilsparsh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
