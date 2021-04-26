@@ -5,7 +5,7 @@ All the code here is meant for self reference and to be referred by others only 
 
 If you have a better code for any of the code posted here, do PR, I'll add it right in.
 
-## Dice Roller
+## Dice Roller App
 
 ## Happy Birthday App
 
