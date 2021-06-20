@@ -6,10 +6,13 @@ All the code here is meant for self reference and to be referred by others only 
 If you have a better code for any of the code posted here, do PR, I'll add it right in.
 
 ## Dice Roller App
+<img src = "https://github.com/swapnilsparsh/AndroidStudyJams/blob/master/Screenshots/DiceRoller.png" />
 
 ## Happy Birthday App
+<img src = "https://github.com/swapnilsparsh/AndroidStudyJams/blob/master/Screenshots/HappyBirthday.png" />
 
-## Hello World App
+## Tip Calculator App
+<img src = "https://github.com/swapnilsparsh/AndroidStudyJams/blob/master/Screenshots/TipCalculator.jpeg" />
 
 
 ## Connect with me
